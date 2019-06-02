@@ -1,0 +1,19 @@
+[
+{"type":"header","version":"4.8.5","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"Sweeties"},
+{"type":"table","name":"Comments","database":"Sweeties","data":
+[
+
+]
+}
+,{"type":"table","name":"Posts","database":"Sweeties","data":
+[
+
+]
+}
+,{"type":"table","name":"Users","database":"Sweeties","data":
+[
+
+]
+}
+]
